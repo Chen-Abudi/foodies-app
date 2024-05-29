@@ -14,13 +14,14 @@
 
 ## 🔎 Intro:
 
-This is a **Full-Stack** application developed with NextJS, showcasing a foodies app that allows to view meals recipes, share meals, and be part of a foodies community.
+This is a **Full-Stack** application developed with NextJS, showcasing a foodies app that allows to view meals recipes, share them, and be part of a foodies community.
 
 ## 🧰 Tech Stack:
 
 - NextJS
 - React
 - JavaScript
+- CSS3
 
 ## 🛠️ Techniques & Tools:
 
