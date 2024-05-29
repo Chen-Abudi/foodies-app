@@ -21,7 +21,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 - NextJS
 - React
 - JavaScript
-- CSS3
+- CSS Modules
 
 ## 🛠️ Techniques & Tools:
 
