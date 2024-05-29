@@ -19,11 +19,13 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 ## 🧰 Tech Stack:
 
 - NextJS
+- React
 - JavaScript
 
 ## 🛠️ Techniques & Tools:
 
 - Custom Components
+- Dynamic Routes
 
 ---
 
