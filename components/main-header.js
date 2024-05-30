@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 import HeaderLogo from "@/assets/logo.png";
 import classes from "./main-header.module.css";
@@ -7,7 +8,7 @@ function MainHeader() {
   return (
     <header className={classes.header}>
       <Link href="/" className={classes.logo}>
-        <img src={HeaderLogo.src} alt="A plate full of food" />
+        <Image src={HeaderLogo} alt="A plate full of food" priority />
         Foodies
       </Link>
 
