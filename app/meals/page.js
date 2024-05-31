@@ -1,4 +1,3 @@
-// import Link from "next/link";
 import Link from "next/link";
 
 import MealsGrid from "@/components/meals/meals-grid";
