@@ -32,7 +32,8 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 - **_Dynamic Routes_**
 - **_Images Slideshow_**
 - **_usePathname_**
-- **_NavLink_**
+- **`React Router Dom Components`**:
+  - **_NavLink_**: Is used for navigation between pages.
 
 ---
 
