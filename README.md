@@ -27,9 +27,9 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 
 ## 🛠️ Techniques & Tools:
 
-- Custom Components
-- Dynamic Routes
-- Images Slideshow
+- **_Custom Components_**
+- **_Dynamic Routes_**
+- **_Images Slideshow_**
 - **_usePathname_**
 - **_NavLink_**
 
