@@ -23,7 +23,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 - NextJS
 - ReactJS
 - JavaScript
-- SQLite Database
+- SQLite3 Database
 - CSS Modules
 
 ## 🛠️ Techniques & Tools:
@@ -31,8 +31,8 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 - **_Custom Components_**
 - **_Dynamic Routes_**
 - **_Images Slideshow_**
-- - **`Next Client Component Hook`**:
-- **_usePathname_**: Is a hook that lets you read the current URL's pathname.
+- **`Next Client Component Hook`**:
+  - **_usePathname_**: Is a hook that lets you read the current URL's pathname.
 - **`React Router Dom Components`**:
   - **_NavLink_**: Is used for navigation between pages.
 
