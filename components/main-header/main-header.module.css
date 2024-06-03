@@ -11,6 +11,12 @@
   }
 }
 
+@media (min-width: 320px) and (max-width: 640px) {
+  .header {
+    flex-direction: column;
+  }
+}
+
 .nav ul {
   margin: 0;
   padding: 0;

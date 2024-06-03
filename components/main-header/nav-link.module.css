@@ -6,6 +6,12 @@
   border-radius: 0.5rem;
 }
 
+@media (max-width: 450px) {
+  .link {
+    padding: 0;
+  }
+}
+
 .link:hover,
 .link:active {
   text-shadow: 0 0 18px rgba(248, 190, 42, 0.8);
