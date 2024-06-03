@@ -25,6 +25,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 - JavaScript
 - SQLite3 Database
 - CSS Modules
+- Responsive Layout
 
 ## 🛠️ Techniques & Tools:
 
