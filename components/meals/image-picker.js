@@ -26,7 +26,6 @@ function ImagePicker({ label, name }) {
 
     reader.onload = () => {
       setChosenImage(reader.result);
-      // setChosenImage(evt.target.result);
     };
 
     reader.readAsDataURL(file);
