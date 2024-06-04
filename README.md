@@ -39,6 +39,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 - **_Loading_**
 - **`React Components`**:
   - **_Suspense_**: Is a built-in React component which lets us temporarily render a fallback UI while its children are still loading.
+- **_Handling Errors + Not Found Page_**
 
 ---
 
