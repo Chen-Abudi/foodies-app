@@ -57,6 +57,12 @@
   background: linear-gradient(90deg, #f9572a, #ffc905);
 }
 
+@media (max-width: 320px) {
+  .cta a {
+    padding: 0.5rem;
+  }
+}
+
 .cta a:hover,
 .cta a:active {
   background: linear-gradient(90deg, #fd4715, #f9b241);
