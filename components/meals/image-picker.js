@@ -18,10 +18,10 @@ function ImagePicker({ label, name }) {
     const file = evt.target.files[0];
 
     if (!file) {
+      setChosenImage(null);
       return;
     }
 
-    setChosenImage(null);
     const reader = new FileReader();
 
     reader.onload = () => {
@@ -55,6 +55,7 @@ function ImagePicker({ label, name }) {
           accept="image/png, image/jpeg"
           ref={imageInput}
           onChange={handleImageChange}
+          required
         />
         <button
           className={classes.button}
