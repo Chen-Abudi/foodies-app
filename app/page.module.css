@@ -6,6 +6,18 @@
   gap: 3rem;
 }
 
+@media (min-width: 320px) and (max-width: 640px) {
+  .header {
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .slideshow {
+    width: 100% !important;
+  }
+}
+
 .slideshow {
   width: 40rem;
   height: 25rem;
