@@ -12,8 +12,6 @@ async function Meals() {
 }
 
 function MealsPage() {
-  // const meals = await getMeals();
-
   return (
     <>
       <header className={classes.header}>
@@ -29,7 +27,6 @@ function MealsPage() {
         </p>
       </header>
       <main className={classes.main}>
-        {/* <MealsGrid meals={meals} /> */}
         <Suspense
           fallback={<p className={classes.loading}>Fetching meals...</p>}
         >
