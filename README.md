@@ -29,9 +29,9 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 
 ## 🛠️ Techniques & Tools:
 
-- **_Custom Components_**
-- **_Dynamic Routes_**
-- **_Images Slideshow_**
+- Custom Components
+- Dynamic Routes
+- Images Slideshow
 - **`Next Client Component Hook`**:
   - **_usePathname_**: Is a hook that lets you read the current URL's pathname.
 - **`React Router Dom Components`**:
@@ -39,7 +39,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 - **_Loading_**
 - **`React Components`**:
   - **_Suspense_**: Is a built-in React component which lets us temporarily render a fallback UI while its children are still loading.
-- **_Handling Errors + Not Found Page_**
+- Handling Errors + Not Found Page
 
 ---
 
