@@ -7,12 +7,6 @@
   font-size: 1.5rem;
 }
 
-/* @media (min-width: 320px) and (max-width: 640px) {
-  .header {
-    flex-direction: column;
-  }
-} */
-
 .header h1 {
   font-family: "Montserrat", sans-serif;
 }
