@@ -42,6 +42,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 - Handling Errors + Not Found Page
 - **`React Hooks`**:
   - **_useRef_**: Is a hook that lets you reference a value that's not needed for rendering.
+- Server Actions
 
 ---
 
