@@ -57,6 +57,10 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 
 ---
 
+**`Note`**: Uploaded images should be stored in the cloud (AWS S3, Vercel Blob or somewhere else).
+
+---
+
 ## 🔗 Additional Link:
 
 If you want to strengthen your knowledge and skills of **React, Redux, NextJS and more...** along the **Best Practices**, Feel free to check this course on Udemy by **`Maximilian Schwarzmüller`**:
