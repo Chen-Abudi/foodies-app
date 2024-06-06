@@ -43,8 +43,13 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
   - **_Suspense_**: Is a built-in React component which lets us temporarily render a fallback UI while its children are still loading.
 - Handling Errors + Not Found Page
 - **`React Hooks`**:
+
   - **_useRef_**: Is a hook that lets you reference a value that's not needed for rendering.
   - **_useFormStatus_**: Is a hook that provides status information of the last form submission.
+  - **_useFormState_**: Is a custom hook that allows you to subscribe to each form state, and isolate the re-render at the custom hook level.
+
+  **`Note`**: It has its scope in terms of form state subscription, so it would not affect other **useFormState** and **useForm**. Using this hook can reduce the re-render impact on large and complex form applications.
+
 - Server Actions
 - Server Side Validation
 
