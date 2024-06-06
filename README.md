@@ -52,6 +52,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 
 - Server Actions
 - Server Side Validation
+- **_revalidatePath_**: Allows you to purge **cached data** on-demand for a specific path.
 
 ---
 
