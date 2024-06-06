@@ -46,7 +46,6 @@ function ShareMealPage() {
           <ImagePicker label="Your image" name="image" />
           <p className={classes.actions}>
             <MealsFormSubmit />
-            {/* <button type="submit">Share Meal</button> */}
           </p>
         </form>
       </main>
