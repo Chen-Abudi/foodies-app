@@ -46,6 +46,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
   - **_useRef_**: Is a hook that lets you reference a value that's not needed for rendering.
   - **_useFormStatus_**: Is a hook that provides status information of the last form submission.
 - Server Actions
+- Server Side Validation
 
 ---
 
