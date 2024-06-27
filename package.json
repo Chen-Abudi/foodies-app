@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "better-sqlite3": "^11.0.0",
+    "eslint": "^8.57.0",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
@@ -23,7 +24,6 @@
     "@babel/eslint-parser": "^7.24.6",
     "@babel/preset-env": "^7.24.6",
     "@babel/preset-react": "^7.24.6",
-    "eslint": "^8.57.0",
     "eslint-config-next": "^14.0.3",
     "eslint-plugin-next": "^0.0.0"
   }
