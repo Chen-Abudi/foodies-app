@@ -57,7 +57,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 
 ---
 
-**`Note`**: Uploaded images should be stored in the cloud (AWS S3, Vercel Blob or somewhere else).
+**`Note`**: Uploaded images could be stored in the cloud (AWS S3, Vercel Blob or somewhere else).
 
 ---
 
