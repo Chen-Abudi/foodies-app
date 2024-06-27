@@ -3,7 +3,6 @@
   "rules": {
     "no-unused-vars": "off",
     "no-undef": "off",
-    "no-invalid-end": "off",
     "@next/next/no-img-element": "off"
   }
 }
