@@ -64,7 +64,7 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 
 # 🚀 Live Project:
 
-- `Visit the App` [&#128073;&#127997; **HERE !**](https://foodies-app-black.vercel.app/)
+- `Visit the App` [&#128073;&#127997; **HERE !**](https://foodies-app-psi.vercel.app/)
 
 ---
 
