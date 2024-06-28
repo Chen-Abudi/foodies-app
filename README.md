@@ -9,7 +9,6 @@
   - [🔎 Intro:](#-intro)
   - [🧰 Tech Stack:](#-tech-stack)
   - [🛠️ Techniques \& Tools:](#️-techniques--tools)
-- [🚀 Live Project:](#-live-project)
   - [🔗 Additional Link:](#-additional-link)
   - [Visit the Course 👉🏽 **HERE !**](#visit-the-course--here-)
 
@@ -59,12 +58,6 @@ This is a **Full-Stack** application developed with NextJS, showcasing a foodies
 ---
 
 **`Note`**: Uploaded images could be stored in the cloud (AWS S3, Vercel Blob or somewhere else).
-
----
-
-# 🚀 Live Project:
-
-- `Visit the App` [&#128073;&#127997; **HERE !**](https://foodies-app-psi.vercel.app/)
 
 ---
 
